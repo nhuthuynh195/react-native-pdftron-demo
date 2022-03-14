@@ -111,6 +111,7 @@ export default class App extends Component<Props> {
         inkMultiStrokeEnabled={false}
         continuousAnnotationEditing={true}
         selectAnnotationAfterCreation={false}
+        longPressMenuEnabled={false}
       />
     );
   }
